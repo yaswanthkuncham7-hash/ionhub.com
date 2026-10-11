@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard/profile
+
+Sitemap: https://ionhub.in/sitemap.xml
